@@ -13,9 +13,9 @@ Skills:  REACT / JS / HTML / CSS/ C#.Net
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanvir0234)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tanvir.ali.10)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir0234)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanvir0234&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 ![GitHub metrics](https://metrics.lecoq.io/Tanvir0234)  
 
