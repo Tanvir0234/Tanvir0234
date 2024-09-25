@@ -6,9 +6,9 @@
 
 I'm passionate about all things JavaScript. I work hard , I care about writing clean code and I genuinely love to learn . I'm currently for the right opportunity to work in an environment that will help me progress into a full stack role.
 
-Skills:  REACT / JS / HTML / CSS/ C#.Net
+Skills:  REACT JS/ JS / HTML / CSS/Python/Django
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Python-django
 - 💬 Ask me about Wev Development 
 
 
